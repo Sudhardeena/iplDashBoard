@@ -8,6 +8,12 @@
   background-color: #a4261d;
   padding: 30px;
 }
+.content-div {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
 .banner-img {
   width: 100%;
 }
@@ -20,4 +26,13 @@
   display: flex;
   flex-wrap: wrap;
   justify-content: center;
+}
+.back-btn {
+  margin: 10px auto;
+  border: none;
+  outline: none;
+  padding: 10px 20px;
+  color: #ffffff;
+  background-color: black;
+  border-radius: 5px;
 }

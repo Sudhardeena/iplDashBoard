@@ -3,8 +3,12 @@ import './index.css'
 
 const MatchCard = props => {
   const {matchcardDetails} = props
-  const {competingTeamLogo, competingTeam, result, matchStatus} =
-    matchcardDetails
+  const {
+    competingTeamLogo,
+    competingTeam,
+    result,
+    matchStatus,
+  } = matchcardDetails
   return (
     <li className="recent-match-item">
       <img
