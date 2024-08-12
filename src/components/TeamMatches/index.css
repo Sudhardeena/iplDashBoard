@@ -1,0 +1,23 @@
+/* Write your CSS here */
+.team-matches-container {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  background-color: #a4261d;
+  padding: 30px;
+}
+.banner-img {
+  width: 100%;
+}
+.latest-matches-title {
+  align-self: flex-start;
+  color: #ffffff;
+}
+.recent-matches-list {
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}

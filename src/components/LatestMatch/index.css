@@ -1,0 +1,26 @@
+/* Write your CSS here */
+.latest-match-container {
+  background-color: #0f172a;
+  color: #ffffff;
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  font-family: bree serif;
+  width: 100%;
+}
+.latest-team-intro {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  border-style: solid;
+  border-width: 0 0 1px 0;
+  border-color: #ffffff;
+  padding: 20px;
+}
+.competitive-team-logo {
+  margin-left: 50px;
+  width: 90px;
+}
+.innings-details {
+  padding: 20px;
+}

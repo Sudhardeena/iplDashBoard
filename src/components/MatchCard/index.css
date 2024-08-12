@@ -1,0 +1,19 @@
+/* Write your CSS here */
+.recent-match-item {
+  list-style: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  width: 300px;
+  padding: 30px;
+  border-radius: 20px;
+  background-color: #0f172a;
+  margin: 10px;
+  text-align: center;
+  color: #ffffff;
+}
+.competite-recent-team-logo {
+  width: 60px;
+  
+}
